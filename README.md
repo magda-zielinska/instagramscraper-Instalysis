@@ -1,4 +1,4 @@
-# instagramscraper-dataanalysis
+# instagramscraper-data-analysis
 Data analysis of the data collected with the instagramscraper
 
 With the data collected through the instagramscraper the following notebooks show the analysis of that data.
